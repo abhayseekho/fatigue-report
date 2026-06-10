@@ -1,73 +1,82 @@
-Rank,Adset,Cluster,Budget/day,# of Requirements,In how many days
-— New-supply clusters (mostly fresh creatives) (0) —,,,,,
-— Carryover clusters (running on last cycle's creatives) (70) —,,,,,
-1,weightloss male,partner-rejection,₹0.3L,5,0
-2,weightloss female,saheli-friends-taunt,₹0.2L,3,0
-3,weightloss female,samaj-public-shame,₹0.1L,3,0
-4,skin beauty routine,maa-beti,₹0.1L,2,0
-5,home parlour,parent-child,₹0.1L,2,0
-6,weightloss female,pati-vs-patni,₹0.3L,4,4
-7,beauty skills,maa-beti,₹0.1L,2,0
-8,home parlour,maa-beti,₹0.1L,2,0
-9,instagram,relatives-taunt,₹0.0L,2,0
-10,weight gain,relatives-taunt,₹0.0L,2,0
-11,weightloss,saas-vs-bahu,₹0.0L,2,0
-12,weightloss,rishta-rejection,₹0.0L,2,0
-13,guthealth,pati-vs-patni,₹0.1L,3,8
-14,weightloss female,rishta-rejection,₹0.1L,3,4
-15,guthealth,partner-rejection,₹0.0L,2,0
-16,skin female,maa-beti,₹0.1L,2,6
-17,weightloss female,nanad-vs-bahu,₹0.1L,2,7
-18,makeup hairstyle,siblings,₹0.0L,2,0
-19,weightloss male,saheli-friends-taunt,₹0.0L,2,3
-20,weightloss female,saas-vs-bahu,₹0.1L,2,11
-21,makeup hairstyle,pati-vs-patni,₹0.1L,1,11
-22,skin female,expert-doctor-led,₹0.0L,2,4
-23,hair,rishta-rejection,₹0.0L,2,0
-24,hair,maa-beti,₹0.0L,2,0
-25,weight gain,pati-vs-patni,₹0.0L,2,0
-26,skin female,relatives-taunt,₹0.0L,2,0
-27,hair,expert-doctor-led,₹0.1L,2,10
-28,skin male,siblings,₹0.0L,2,0
-29,skin male,maa-beti,₹0.0L,2,0
-30,skin male,colleague-office,₹0.0L,2,0
-31,hair,padosi-neighbour-taunt,₹0.0L,2,0
-32,skin female,jethani-devrani-vs-bahu,₹0.0L,2,0
-33,hair,siblings,₹0.0L,2,0
-34,top - 35 - instagram(aa),maa-beti,₹0.2L,1,
-35,weightloss male,expert-doctor-led,₹0.0L,2,0
-36,hair,partner-rejection,₹0.0L,2,0
-37,skin beauty routine,pati-vs-patni,₹0.0L,2,0
-38,hair,parent-child,₹0.1L,3,21
-39,hair,teacher-student,₹0.0L,1,10
-40,weightloss male,padosi-neighbour-taunt,₹0.0L,2,0
-41,skin,saheli-friends-taunt,₹0.0L,2,0
-42,weightloss female,maa-beti,₹0.0L,3,5
-43,guthealth,siblings,₹0.0L,2,0
-44,home parlour,pati-vs-patni,₹0.0L,2,5
-45,skin female,partner-rejection,₹0.0L,2,2
-46,weightloss male,relatives-taunt,₹0.0L,2,0
-47,skin male,partner-rejection,₹0.0L,2,0
-48,skin male,relatives-taunt,₹0.0L,1,7
-49,skin female,teacher-student,₹0.0L,1,8
-50,makeup hairstyle,colleague-office,₹0.0L,2,1
-51,hair,saas-vs-bahu,₹0.0L,2,0
-52,skin,expert-doctor-led,₹0.0L,2,0
-53,weightloss male,pati-vs-patni,₹0.0L,1,24
-54,skin male,saheli-friends-taunt,₹0.0L,2,0
-55,weightloss female,expert-doctor-led,₹0.0L,2,9
-56,skin beauty routine,saas-vs-bahu,₹0.0L,2,3
-57,skin female,rishta-rejection,₹0.0L,2,6
-58,guthealth,sasur-vs-bahu,₹0.0L,2,0
-59,skin male,rishta-rejection,₹0.0L,2,0
-60,guthealth,parent-child,₹0.0L,1,9
-61,skin female,siblings,₹0.0L,2,0
-62,skin female,saas-vs-bahu,₹0.0L,2,0
-63,skin,rishta-rejection,₹0.0L,2,0
-64,weightloss male,rishta-rejection,₹0.0L,2,0
-65,skin female,sasur-vs-bahu,₹0.0L,2,0
-66,weightloss female,jethani-devrani-vs-bahu,₹0.0L,3,0
-67,weightloss female,siblings,₹0.1L,1,130
-68,hair,saheli-friends-taunt,₹0.0L,1,57
-69,makeup hairstyle,saas-vs-bahu,₹0.0L,1,24
-70,guthealth,relatives-taunt,₹0.0L,1,22
+Rank,Adset,Cluster,GTM,Budget/day,# of Requirements,In how many days
+— New-supply clusters (mostly fresh creatives) (0) —,,,,,,
+— Carryover clusters (running on last cycle's creatives) (79) —,,,,,,
+1,weightloss male,partner-rejection,true,₹0.3L,5,0
+2,weightloss female,saheli-friends-taunt,true,₹0.2L,3,0
+3,weightloss female,samaj-public-shame,true,₹0.1L,3,0
+4,skin beauty routine,maa-beti,true,₹0.1L,2,0
+5,home parlour,parent-child,true,₹0.1L,2,0
+6,weightloss female,pati-vs-patni,true,₹0.3L,4,4
+7,beauty skills,maa-beti,true,₹0.1L,2,0
+8,home parlour,maa-beti,true,₹0.1L,2,0
+9,top - 35 - instagram(aa),(all),true,₹0.4L,2,7
+10,weightloss female,(all),true,₹0.1L,3,0
+11,instagram,relatives-taunt,true,₹0.0L,2,0
+12,weight gain,relatives-taunt,true,₹0.0L,2,0
+13,weight gain,(all),true,₹0.0L,2,0
+14,utilise time,(all),true,₹0.0L,2,0
+15,weightloss,saas-vs-bahu,true,₹0.0L,2,0
+16,weightloss,rishta-rejection,true,₹0.0L,2,0
+17,guthealth,pati-vs-patni,true,₹0.1L,3,8
+18,weightloss female,rishta-rejection,true,₹0.1L,3,4
+19,guthealth,partner-rejection,true,₹0.0L,2,0
+20,skin female,maa-beti,true,₹0.1L,2,6
+21,weightloss female,nanad-vs-bahu,true,₹0.1L,2,7
+22,makeup hairstyle,siblings,true,₹0.0L,2,0
+23,weightloss male,saheli-friends-taunt,true,₹0.0L,2,3
+24,instagram,(all),true,₹0.0L,2,0
+25,weightloss female,saas-vs-bahu,true,₹0.1L,2,11
+26,makeup hairstyle,pati-vs-patni,true,₹0.1L,1,11
+27,skin female,expert-doctor-led,true,₹0.0L,2,4
+28,hair,rishta-rejection,true,₹0.0L,2,0
+29,hair,maa-beti,true,₹0.0L,2,0
+30,weight gain,pati-vs-patni,true,₹0.0L,2,0
+31,skin female,relatives-taunt,true,₹0.0L,2,0
+32,hair,expert-doctor-led,true,₹0.1L,2,10
+33,skin male,siblings,true,₹0.0L,2,0
+34,skin male,maa-beti,true,₹0.0L,2,0
+35,skin male,colleague-office,true,₹0.0L,2,0
+36,hair,padosi-neighbour-taunt,true,₹0.0L,2,0
+37,skin female,jethani-devrani-vs-bahu,true,₹0.0L,2,0
+38,hair,siblings,true,₹0.0L,2,0
+39,top - 35 - instagram(aa),maa-beti,true,₹0.2L,1,
+40,weightloss male,expert-doctor-led,true,₹0.0L,2,0
+41,hair,partner-rejection,true,₹0.0L,2,0
+42,skin beauty routine,pati-vs-patni,true,₹0.0L,2,0
+43,hair,parent-child,true,₹0.1L,3,21
+44,hair,teacher-student,true,₹0.0L,1,10
+45,weightloss male,padosi-neighbour-taunt,true,₹0.0L,2,0
+46,skin,saheli-friends-taunt,true,₹0.0L,2,0
+47,weightloss female,maa-beti,true,₹0.0L,3,5
+48,guthealth,siblings,true,₹0.0L,2,0
+49,home parlour,pati-vs-patni,true,₹0.0L,2,5
+50,skin female,partner-rejection,true,₹0.0L,2,2
+51,weightloss male,relatives-taunt,true,₹0.0L,2,0
+52,skin male,partner-rejection,true,₹0.0L,2,0
+53,skin male,relatives-taunt,true,₹0.0L,1,7
+54,skin female,teacher-student,true,₹0.0L,1,8
+55,makeup hairstyle,colleague-office,true,₹0.0L,2,1
+56,hair,saas-vs-bahu,true,₹0.0L,2,0
+57,skin,expert-doctor-led,true,₹0.0L,2,0
+58,weightloss male,pati-vs-patni,true,₹0.0L,1,24
+59,skin male,saheli-friends-taunt,true,₹0.0L,2,0
+60,skin male,(all),true,₹0.0L,2,0
+61,skin beauty routine,(all),true,₹0.0L,2,5
+62,weightloss female,expert-doctor-led,true,₹0.0L,2,9
+63,skin beauty routine,saas-vs-bahu,true,₹0.0L,2,3
+64,skin female,rishta-rejection,true,₹0.0L,2,6
+65,guthealth,sasur-vs-bahu,true,₹0.0L,2,0
+66,skin male,rishta-rejection,true,₹0.0L,2,0
+67,guthealth,parent-child,true,₹0.0L,1,9
+68,skin female,siblings,true,₹0.0L,2,0
+69,skin female,saas-vs-bahu,true,₹0.0L,2,0
+70,skin,rishta-rejection,true,₹0.0L,2,0
+71,weightloss male,rishta-rejection,true,₹0.0L,2,0
+72,skin female,sasur-vs-bahu,true,₹0.0L,2,0
+73,weightloss female,jethani-devrani-vs-bahu,true,₹0.0L,3,0
+74,weightloss female,siblings,true,₹0.1L,1,130
+75,hair,saheli-friends-taunt,true,₹0.0L,1,57
+76,makeup hairstyle,saas-vs-bahu,true,₹0.0L,1,24
+77,womenbeauty,(all),true,₹0.0L,2,5
+78,skin female,(all),true,₹0.0L,1,47
+79,guthealth,relatives-taunt,true,₹0.0L,1,22
