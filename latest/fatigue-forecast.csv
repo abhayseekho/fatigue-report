@@ -1,0 +1,73 @@
+Adset,Cluster,Days to fatigue,Driven by,Priority
+guthealth,sasur-vs-bahu,0 (dry),both,P0-dry
+weightloss female,samaj-public-shame,0 (dry),cac,P0-dry
+hair,siblings,0 (dry),both,P0-dry
+hair,partner-rejection,0 (dry),both,P0-dry
+weightloss,rishta-rejection,0 (dry),both,P0-dry
+skin,saheli-friends-taunt,0 (dry),both,P0-dry
+skin male,colleague-office,0 (dry),both,P0-dry
+hair,maa-beti,0 (dry),ctr,P0-dry
+skin,rishta-rejection,0 (dry),both,P0-dry
+weightloss,saas-vs-bahu,0 (dry),ctr,P0-dry
+skin,expert-doctor-led,0 (dry),both,P0-dry
+skin male,siblings,0 (dry),cac,P0-dry
+skin male,rishta-rejection,0 (dry),both,P0-dry
+weight gain,pati-vs-patni,0 (dry),cac,P0-dry
+weightloss male,expert-doctor-led,0 (dry),both,P0-dry
+weightloss female,saheli-friends-taunt,0 (dry),both,P0-dry
+skin male,maa-beti,0 (dry),ctr,P0-dry
+hair,saas-vs-bahu,0 (dry),cac,P0-dry
+hair,rishta-rejection,0 (dry),cac,P0-dry
+skin female,relatives-taunt,0 (dry),both,P0-dry
+guthealth,partner-rejection,0 (dry),cac,P0-dry
+weight gain,relatives-taunt,0 (dry),ctr,P0-dry
+skin male,partner-rejection,0 (dry),both,P0-dry
+skin male,saheli-friends-taunt,0 (dry),ctr,P0-dry
+skin female,siblings,0 (dry),ctr,P0-dry
+weightloss male,relatives-taunt,0 (dry),ctr,P0-dry
+skin female,saas-vs-bahu,0 (dry),both,P0-dry
+guthealth,siblings,0 (dry),ctr,P0-dry
+weightloss male,rishta-rejection,0 (dry),cac,P0-dry
+hair,padosi-neighbour-taunt,0 (dry),both,P0-dry
+skin beauty routine,maa-beti,0 (dry),cac,P0-dry
+home parlour,maa-beti,0 (dry),cac,P0-dry
+beauty skills,maa-beti,0 (dry),cac,P0-dry
+home parlour,parent-child,0 (dry),cac,P0-dry
+weightloss male,padosi-neighbour-taunt,0 (dry),cac,P0-dry
+skin female,jethani-devrani-vs-bahu,0 (dry),cac,P0-dry
+weightloss female,jethani-devrani-vs-bahu,0 (dry),cac,P0-dry
+skin beauty routine,pati-vs-patni,0 (dry),ctr,P0-dry
+makeup hairstyle,siblings,0 (dry),cac,P0-dry
+skin female,sasur-vs-bahu,0 (dry),ctr,P0-dry
+weightloss male,partner-rejection,0.1,cac,P1-<=3d
+instagram,relatives-taunt,0.2,cac,P1-<=3d
+makeup hairstyle,colleague-office,1,ctr,P1-<=3d
+skin female,partner-rejection,2.3,ctr,P1-<=3d
+weightloss male,saheli-friends-taunt,3,ctr,P1-<=3d
+skin beauty routine,saas-vs-bahu,3.1,ctr,P2-<=7d
+skin female,expert-doctor-led,3.7,ctr,P2-<=7d
+weightloss female,pati-vs-patni,3.8,ctr,P2-<=7d
+weightloss female,rishta-rejection,4.4,both,P2-<=7d
+weightloss female,maa-beti,4.7,both,P2-<=7d
+home parlour,pati-vs-patni,5.4,ctr,P2-<=7d
+skin female,rishta-rejection,5.8,ctr,P2-<=7d
+skin female,maa-beti,6.1,ctr,P2-<=7d
+weightloss female,nanad-vs-bahu,7.2,ctr,P3->7d
+skin female,pati-vs-patni,7.4,cac,P3->7d
+skin male,relatives-taunt,7.4,both,P3->7d
+beauty skills,siblings,7.5,ctr,P3->7d
+guthealth,pati-vs-patni,8.1,cac,P3->7d
+skin female,teacher-student,8.3,ctr,P3->7d
+weightloss female,expert-doctor-led,9,ctr,P3->7d
+guthealth,parent-child,9.4,ctr,P3->7d
+hair,teacher-student,9.6,ctr,P3->7d
+hair,expert-doctor-led,10.1,ctr,P3->7d
+weightloss female,saas-vs-bahu,11,ctr,P3->7d
+makeup hairstyle,pati-vs-patni,11.4,ctr,P3->7d
+hair,parent-child,20.8,ctr,P3->7d
+guthealth,relatives-taunt,22.2,ctr,P3->7d
+makeup hairstyle,saas-vs-bahu,23.9,ctr,P3->7d
+weightloss male,pati-vs-patni,24.4,ctr,P3->7d
+hair,relatives-taunt,40.5,ctr,P3->7d
+hair,saheli-friends-taunt,56.9,ctr,P3->7d
+weightloss female,siblings,130.1,ctr,P3->7d
