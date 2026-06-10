@@ -53,7 +53,7 @@ home parlour,pati-vs-patni,5.4,ctr,P2-<=7d
 skin female,rishta-rejection,5.8,ctr,P2-<=7d
 skin female,maa-beti,6.1,ctr,P2-<=7d
 weightloss female,nanad-vs-bahu,7.2,ctr,P3->7d
-skin female,pati-vs-patni,7.4,ctr,P3->7d
+skin female,pati-vs-patni,7.4,cac,P3->7d
 skin male,relatives-taunt,7.4,ctr,P3->7d
 beauty skills,siblings,7.5,ctr,P3->7d
 guthealth,pati-vs-patni,8.1,cac,P3->7d
