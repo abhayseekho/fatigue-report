@@ -1,55 +1,82 @@
 Rank,Adset,Cluster,GTM,Budget/day,# of Requirements,In how many days
 — New-supply clusters (mostly fresh creatives) (0) —,,,,,,
-— Carryover clusters (running on last cycle's creatives) (52) —,,,,,,
-1,horxcrisis low unin% creatives,(all),false,₹2.6L,12,0
-2,top - 1 - sarkari kaam,(all),false,₹62.8L,11,25
-3,seekhomalayalam,(all),false,₹1.9L,12,2
-4,top - 11 - sarkari services,(all),false,₹0.8L,12,1
-5,business catalogue adset,(all),false,₹0.8L,12,0
-6,seekhotamil,(all),false,₹0.9L,12,1
-7,top - 14 - utilise time,(all),false,₹3.2L,12,5
-8,seekhotelugu,(all),false,₹1.5L,12,3
-9,top - 12 - finance,(all),false,₹1.1L,12,2
-10,horxother,(all),false,₹1.6L,12,4
-11,bau - business (aa),(all),false,₹0.8L,12,2
-12,top - 70 - sarkari loan,(all),false,₹0.3L,6,0
-13,top - 12 - finance (aa),(all),false,₹0.3L,5,0
-14,finance,(all),false,₹0.3L,5,0
-15,top - 55 - astro samadhaan,(all),false,₹0.3L,5,1
-16,bau - business,(all),false,₹0.6L,9,3
-17,retargeting installer,(all),false,₹1.5L,10,9
-18,seekhokannada,(all),false,₹0.9L,12,6
-19,top - 342 - horxother,(all),false,₹0.9L,12,7
-20,utilise time,(all),false,₹0.1L,2,0
-21,youtube  catalogue adset,(all),false,₹0.1L,2,0
-22,top - 35 - instagram(aa),(all),false,₹2.4L,8,
-23,top - 15 - stock market - 2,(all),false,₹2.1L,7,27
-24,top - 153 - facebook(aaa),(all),false,₹0.9L,11,13
-25,horxother + ut,(all),false,₹0.6L,8,13
-26,top - 117 - diy - 2,(all),false,₹1.4L,8,
-27,top - 7 - youtube,(all),false,₹1.3L,9,
-28,stock market,(all),false,₹0.0L,2,0
-29,sharemarket,(all),false,₹0.0L,2,0
-30,beauty skills,(all),false,₹0.3L,1,8
-31,top - 2 - pti,(all),false,₹0.9L,11,
-32,business,(all),false,₹0.0L,2,0
-33,sm+biz+diy,(all),false,₹0.3L,4,13
-34,top - 153 - facebook(aa),(all),false,₹0.0L,2,0
-35,bau - business new,(all),false,₹0.8L,11,53
-36,top - 15 - stock market,(all),false,₹0.4L,6,
-37,top 5 categories pvs,(all),false,₹0.0L,2,0
-38,pti,(all),false,₹0.0L,2,0
-39,top 5 categories ad p1 retention,(all),false,₹0.0L,2,0
-40,top - 35 - instagram(aa),maa-beti,true,₹0.2L,2,
-41,utilisetime  catalogue adset,(all),false,₹0.1L,2,
-42,sarkari,(all),false,₹0.0L,2,0
-43,insta  catalogue adset,(all),false,₹0.1L,1,
-44,instagram,(all),true,₹0.0L,2,7
-45,top - 35 - instagram,(all),false,₹0.0L,2,0
-46,utilise,(all),false,₹0.0L,2,0
-47,astro,(all),false,₹0.0L,1,
-48,decoy 3,(all),false,₹0.0L,2,0
-49,astrosamadhaan,(all),false,₹0.0L,1,
-50,smallbizideas,(all),false,₹0.0L,2,0
-51,sarkariloans,(all),false,₹0.0L,1,58
-52,top - 36 - business,(all),false,₹0.0L,1,26
+— Carryover clusters (running on last cycle's creatives) (79) —,,,,,,
+1,weightloss male,partner-rejection,true,₹0.3L,5,0
+2,weightloss female,saheli-friends-taunt,true,₹0.2L,3,0
+3,weightloss female,samaj-public-shame,true,₹0.1L,3,0
+4,skin beauty routine,maa-beti,true,₹0.1L,2,0
+5,home parlour,parent-child,true,₹0.1L,2,0
+6,weightloss female,pati-vs-patni,true,₹0.3L,4,4
+7,beauty skills,maa-beti,true,₹0.1L,2,0
+8,home parlour,maa-beti,true,₹0.1L,2,0
+9,top - 35 - instagram(aa),(all),true,₹0.4L,2,7
+10,weightloss female,(all),true,₹0.1L,3,0
+11,instagram,relatives-taunt,true,₹0.0L,2,0
+12,weight gain,relatives-taunt,true,₹0.0L,2,0
+13,weight gain,(all),true,₹0.0L,2,0
+14,utilise time,(all),true,₹0.0L,2,0
+15,weightloss,saas-vs-bahu,true,₹0.0L,2,0
+16,weightloss,rishta-rejection,true,₹0.0L,2,0
+17,guthealth,pati-vs-patni,true,₹0.1L,3,8
+18,weightloss female,rishta-rejection,true,₹0.1L,3,4
+19,guthealth,partner-rejection,true,₹0.0L,2,0
+20,skin female,maa-beti,true,₹0.1L,2,6
+21,weightloss female,nanad-vs-bahu,true,₹0.1L,2,7
+22,makeup hairstyle,siblings,true,₹0.0L,2,0
+23,weightloss male,saheli-friends-taunt,true,₹0.0L,2,3
+24,instagram,(all),true,₹0.0L,2,0
+25,weightloss female,saas-vs-bahu,true,₹0.1L,2,11
+26,makeup hairstyle,pati-vs-patni,true,₹0.1L,1,11
+27,skin female,expert-doctor-led,true,₹0.0L,2,4
+28,hair,rishta-rejection,true,₹0.0L,2,0
+29,hair,maa-beti,true,₹0.0L,2,0
+30,weight gain,pati-vs-patni,true,₹0.0L,2,0
+31,skin female,relatives-taunt,true,₹0.0L,2,0
+32,hair,expert-doctor-led,true,₹0.1L,2,10
+33,skin male,siblings,true,₹0.0L,2,0
+34,skin male,maa-beti,true,₹0.0L,2,0
+35,skin male,colleague-office,true,₹0.0L,2,0
+36,hair,padosi-neighbour-taunt,true,₹0.0L,2,0
+37,skin female,jethani-devrani-vs-bahu,true,₹0.0L,2,0
+38,hair,siblings,true,₹0.0L,2,0
+39,top - 35 - instagram(aa),maa-beti,true,₹0.2L,1,
+40,weightloss male,expert-doctor-led,true,₹0.0L,2,0
+41,hair,partner-rejection,true,₹0.0L,2,0
+42,skin beauty routine,pati-vs-patni,true,₹0.0L,2,0
+43,hair,parent-child,true,₹0.1L,3,21
+44,hair,teacher-student,true,₹0.0L,1,10
+45,weightloss male,padosi-neighbour-taunt,true,₹0.0L,2,0
+46,skin,saheli-friends-taunt,true,₹0.0L,2,0
+47,weightloss female,maa-beti,true,₹0.0L,3,5
+48,guthealth,siblings,true,₹0.0L,2,0
+49,home parlour,pati-vs-patni,true,₹0.0L,2,5
+50,skin female,partner-rejection,true,₹0.0L,2,2
+51,weightloss male,relatives-taunt,true,₹0.0L,2,0
+52,skin male,partner-rejection,true,₹0.0L,2,0
+53,skin male,relatives-taunt,true,₹0.0L,1,7
+54,skin female,teacher-student,true,₹0.0L,1,8
+55,makeup hairstyle,colleague-office,true,₹0.0L,2,1
+56,hair,saas-vs-bahu,true,₹0.0L,2,0
+57,skin,expert-doctor-led,true,₹0.0L,2,0
+58,weightloss male,pati-vs-patni,true,₹0.0L,1,24
+59,skin male,saheli-friends-taunt,true,₹0.0L,2,0
+60,skin male,(all),true,₹0.0L,2,0
+61,skin beauty routine,(all),true,₹0.0L,2,5
+62,weightloss female,expert-doctor-led,true,₹0.0L,2,9
+63,skin beauty routine,saas-vs-bahu,true,₹0.0L,2,3
+64,skin female,rishta-rejection,true,₹0.0L,2,6
+65,guthealth,sasur-vs-bahu,true,₹0.0L,2,0
+66,skin male,rishta-rejection,true,₹0.0L,2,0
+67,guthealth,parent-child,true,₹0.0L,1,9
+68,skin female,siblings,true,₹0.0L,2,0
+69,skin female,saas-vs-bahu,true,₹0.0L,2,0
+70,skin,rishta-rejection,true,₹0.0L,2,0
+71,weightloss male,rishta-rejection,true,₹0.0L,2,0
+72,skin female,sasur-vs-bahu,true,₹0.0L,2,0
+73,weightloss female,jethani-devrani-vs-bahu,true,₹0.0L,3,0
+74,weightloss female,siblings,true,₹0.1L,1,130
+75,hair,saheli-friends-taunt,true,₹0.0L,1,57
+76,makeup hairstyle,saas-vs-bahu,true,₹0.0L,1,24
+77,womenbeauty,(all),true,₹0.0L,2,5
+78,skin female,(all),true,₹0.0L,1,47
+79,guthealth,relatives-taunt,true,₹0.0L,1,22
