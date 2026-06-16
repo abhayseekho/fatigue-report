@@ -31,7 +31,7 @@ top - 14 - utilise time,(all),false,4.9,both,P2-<=7d
 seekhokannada,(all),false,6.3,cac,P2-<=7d
 instagram,(all),true,6.6,ctr,P2-<=7d
 top - 342 - horxother,(all),false,6.9,both,P2-<=7d
-beauty skills,(all),false,7.5,cac,P3->7d
+beauty skills,(all),false,7.5,ctr,P3->7d
 skin beauty routine,(all),false,9,ctr,P3->7d
 retargeting installer,(all),false,9.2,both,P3->7d
 makeup hairstyle,(all),false,11.4,ctr,P3->7d
@@ -42,6 +42,6 @@ top - 153 - facebook(aaa),(all),false,13.1,both,P3->7d
 top - 1 - sarkari kaam,(all),false,25.4,cac,P3->7d
 top - 36 - business,(all),false,26.4,ctr,P3->7d
 top - 15 - stock market - 2,(all),false,27.3,ctr,P3->7d
-test,(all),false,32,cac,P3->7d
+test,(all),false,32,ctr,P3->7d
 bau - business new,(all),false,52.8,cac,P3->7d
 sarkariloans,(all),false,57.9,ctr,P3->7d
