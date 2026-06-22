@@ -12,18 +12,18 @@ pti,(all),false,0 (dry),both,P0-dry
 smallbizideas,(all),false,0 (dry),both,P0-dry
 business catalogue adset,(all),false,0 (dry),cac,P0-dry
 utilise time,(all),false,0 (dry),both,P0-dry
-top 5 categories pvs,(all),false,0 (dry),both,P0-dry
+top 5 categories pvs,(all),false,0 (dry),ctr,P0-dry
 top 5 categories ad p1 retention,(all),false,0 (dry),both,P0-dry
 sarkari,(all),false,0 (dry),ctr,P0-dry
 business,(all),false,0 (dry),cac,P0-dry
 stock market,(all),false,0 (dry),ctr,P0-dry
 youtube  catalogue adset,(all),false,0 (dry),cac,P0-dry
 top - 55 - astro samadhaan,(all),false,0.8,both,P1-<=3d
-top - 11 - sarkari services,(all),false,1,both,P1-<=3d
+top - 11 - sarkari services,(all),false,1,ctr,P1-<=3d
 seekhotamil,(all),false,1.3,cac,P1-<=3d
 seekhomalayalam,(all),false,1.5,cac,P1-<=3d
 bau - business (aa),(all),false,2.2,both,P1-<=3d
-top - 12 - finance,(all),false,2.5,both,P1-<=3d
+top - 12 - finance,(all),false,2.5,ctr,P1-<=3d
 bau - business,(all),false,3.2,both,P2-<=7d
 seekhotelugu,(all),false,3.2,cac,P2-<=7d
 horxother,(all),false,4.5,cac,P2-<=7d
@@ -31,7 +31,7 @@ top - 14 - utilise time,(all),false,4.9,both,P2-<=7d
 seekhokannada,(all),false,6.3,cac,P2-<=7d
 instagram,(all),true,6.6,ctr,P2-<=7d
 top - 342 - horxother,(all),false,6.9,both,P2-<=7d
-beauty skills,(all),false,7.5,cac,P3->7d
+beauty skills,(all),false,7.5,ctr,P3->7d
 skin beauty routine,(all),false,9,ctr,P3->7d
 retargeting installer,(all),false,9.2,both,P3->7d
 makeup hairstyle,(all),false,11.4,ctr,P3->7d
@@ -42,6 +42,6 @@ top - 153 - facebook(aaa),(all),false,13.1,both,P3->7d
 top - 1 - sarkari kaam,(all),false,25.4,cac,P3->7d
 top - 36 - business,(all),false,26.4,ctr,P3->7d
 top - 15 - stock market - 2,(all),false,27.3,ctr,P3->7d
-test,(all),false,32,cac,P3->7d
+test,(all),false,32,ctr,P3->7d
 bau - business new,(all),false,52.8,cac,P3->7d
 sarkariloans,(all),false,57.9,ctr,P3->7d
