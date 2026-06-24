@@ -14,15 +14,15 @@ horxcrisis low unin% creatives,(all),false,0 (dry),both,P0-dry
 weightloss,saas-vs-bahu,true,0 (dry),ctr,P0-dry
 horxothers,(all),false,0 (dry),both,P0-dry
 utilise time,(all),false,0 (dry),both,P0-dry
-hair,maa-beti,true,0 (dry),ctr,P0-dry
+hair,maa-beti,true,0 (dry),cac,P0-dry
 sarkari,(all),false,0 (dry),ctr,P0-dry
 utilise,(all),false,0 (dry),both,P0-dry
 pti,(all),false,0 (dry),both,P0-dry
 weightloss male,expert-doctor-led,true,0 (dry),both,P0-dry
 weightloss female,saheli-friends-taunt,true,0 (dry),both,P0-dry
-hair,saas-vs-bahu,true,0 (dry),ctr,P0-dry
+hair,saas-vs-bahu,true,0 (dry),cac,P0-dry
 hair,rishta-rejection,true,0 (dry),cac,P0-dry
-skin female,relatives-taunt,true,0 (dry),ctr,P0-dry
+skin female,relatives-taunt,true,0 (dry),cac,P0-dry
 guthealth,partner-rejection,true,0 (dry),cac,P0-dry
 smallbizideas,(all),false,0 (dry),both,P0-dry
 skin female,siblings,true,0 (dry),ctr,P0-dry
@@ -30,7 +30,7 @@ business catalogue adset,(all),false,0 (dry),cac,P0-dry
 weightloss male,relatives-taunt,true,0 (dry),ctr,P0-dry
 guthealth,siblings,true,0 (dry),ctr,P0-dry
 weightloss male,rishta-rejection,true,0 (dry),cac,P0-dry
-top 5 categories pvs,(all),false,0 (dry),ctr,P0-dry
+top 5 categories pvs,(all),false,0 (dry),both,P0-dry
 utilisetime,(all),false,0 (dry),ctr,P0-dry
 top 5 categories ad p1 retention,(all),false,0 (dry),both,P0-dry
 weightloss female,maa-beti,true,0 (dry),both,P0-dry
@@ -53,18 +53,18 @@ instagram,relatives-taunt,true,0.2,cac,P1-<=3d
 seekhotamil,(all),false,0.6,cac,P1-<=3d
 top - 55 - astro samadhaan,(all),false,0.8,both,P1-<=3d
 top - 117 - diy - 2,(all),false,0.8,cac,P1-<=3d
-top - 11 - sarkari services,(all),false,1,ctr,P1-<=3d
+top - 11 - sarkari services,(all),false,1,both,P1-<=3d
 makeup hairstyle,colleague-office,true,1,ctr,P1-<=3d
 seekhomalayalam,(all),false,1.5,cac,P1-<=3d
 bau - business,(all),false,1.6,ctr,P1-<=3d
 bau - business (aa),(all),false,2.2,both,P1-<=3d
-top - 12 - finance,(all),false,2.5,ctr,P1-<=3d
-weightloss male,saheli-friends-taunt,true,3,ctr,P1-<=3d
+top - 12 - finance,(all),false,2.5,both,P1-<=3d
+weightloss male,saheli-friends-taunt,true,3,both,P1-<=3d
 skin beauty routine,saas-vs-bahu,true,3.1,ctr,P2-<=7d
-top - 14 - utilise time,(all),false,3.3,ctr,P2-<=7d
+top - 14 - utilise time,(all),false,3.3,both,P2-<=7d
 seekhotelugu,(all),false,3.3,cac,P2-<=7d
 skin female,expert-doctor-led,true,3.7,ctr,P2-<=7d
-weightloss female,pati-vs-patni,true,3.8,ctr,P2-<=7d
+weightloss female,pati-vs-patni,true,3.8,cac,P2-<=7d
 weightloss female,rishta-rejection,true,4.4,cac,P2-<=7d
 horxother,(all),false,4.5,cac,P2-<=7d
 womenbeauty,(all),true,4.9,ctr,P2-<=7d
@@ -77,7 +77,7 @@ instagram,(all),false,6.6,ctr,P2-<=7d
 top - 342 - horxother,(all),false,6.9,both,P2-<=7d
 weightloss female,nanad-vs-bahu,true,7.2,ctr,P3->7d
 beauty skills,siblings,true,7.5,ctr,P3->7d
-beauty skills,(all),false,7.5,ctr,P3->7d
+beauty skills,(all),false,7.5,cac,P3->7d
 guthealth,pati-vs-patni,true,8.1,cac,P3->7d
 skin female,teacher-student,true,8.3,ctr,P3->7d
 weightloss female,expert-doctor-led,true,9,ctr,P3->7d
@@ -100,10 +100,10 @@ weightloss male,pati-vs-patni,true,24.4,ctr,P3->7d
 top - 1 - sarkari kaam,(all),false,25.4,cac,P3->7d
 top - 36 - business,(all),false,26.4,ctr,P3->7d
 top - 15 - stock market - 2,(all),false,27.3,ctr,P3->7d
-test,(all),false,32,ctr,P3->7d
+test,(all),false,32,cac,P3->7d
 engdaily,(all),false,32.8,ctr,P3->7d
 hair,relatives-taunt,true,40.5,ctr,P3->7d
 bau - business new,(all),false,52.8,cac,P3->7d
 hair,saheli-friends-taunt,true,56.9,ctr,P3->7d
 sarkariloans,(all),false,57.9,ctr,P3->7d
-decoy 3,(all),false,702.2,ctr,P3->7d
+decoy 3,(all),false,702.2,both,P3->7d
