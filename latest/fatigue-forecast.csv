@@ -14,7 +14,7 @@ horxcrisis low unin% creatives,(all),false,0 (dry),both,P0-dry
 weightloss,saas-vs-bahu,true,0 (dry),ctr,P0-dry
 horxothers,(all),false,0 (dry),both,P0-dry
 utilise time,(all),false,0 (dry),both,P0-dry
-hair,maa-beti,true,0 (dry),ctr,P0-dry
+hair,maa-beti,true,0 (dry),cac,P0-dry
 sarkari,(all),false,0 (dry),ctr,P0-dry
 utilise,(all),false,0 (dry),both,P0-dry
 pti,(all),false,0 (dry),both,P0-dry
@@ -64,7 +64,7 @@ skin beauty routine,saas-vs-bahu,true,3.1,ctr,P2-<=7d
 top - 14 - utilise time,(all),false,3.3,both,P2-<=7d
 seekhotelugu,(all),false,3.3,cac,P2-<=7d
 skin female,expert-doctor-led,true,3.7,ctr,P2-<=7d
-weightloss female,pati-vs-patni,true,3.8,ctr,P2-<=7d
+weightloss female,pati-vs-patni,true,3.8,cac,P2-<=7d
 weightloss female,rishta-rejection,true,4.4,cac,P2-<=7d
 horxother,(all),false,4.5,cac,P2-<=7d
 womenbeauty,(all),true,4.9,ctr,P2-<=7d
@@ -100,7 +100,7 @@ weightloss male,pati-vs-patni,true,24.4,ctr,P3->7d
 top - 1 - sarkari kaam,(all),false,25.4,cac,P3->7d
 top - 36 - business,(all),false,26.4,ctr,P3->7d
 top - 15 - stock market - 2,(all),false,27.3,ctr,P3->7d
-test,(all),false,32,ctr,P3->7d
+test,(all),false,32,cac,P3->7d
 engdaily,(all),false,32.8,ctr,P3->7d
 hair,relatives-taunt,true,40.5,ctr,P3->7d
 bau - business new,(all),false,52.8,cac,P3->7d
