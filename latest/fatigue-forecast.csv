@@ -20,9 +20,9 @@ utilise,(all),false,0 (dry),both,P0-dry
 pti,(all),false,0 (dry),both,P0-dry
 weightloss male,expert-doctor-led,true,0 (dry),both,P0-dry
 weightloss female,saheli-friends-taunt,true,0 (dry),both,P0-dry
-hair,saas-vs-bahu,true,0 (dry),ctr,P0-dry
+hair,saas-vs-bahu,true,0 (dry),cac,P0-dry
 hair,rishta-rejection,true,0 (dry),cac,P0-dry
-skin female,relatives-taunt,true,0 (dry),ctr,P0-dry
+skin female,relatives-taunt,true,0 (dry),cac,P0-dry
 guthealth,partner-rejection,true,0 (dry),cac,P0-dry
 smallbizideas,(all),false,0 (dry),both,P0-dry
 skin female,siblings,true,0 (dry),ctr,P0-dry
@@ -77,7 +77,7 @@ instagram,(all),false,6.6,ctr,P2-<=7d
 top - 342 - horxother,(all),false,6.9,both,P2-<=7d
 weightloss female,nanad-vs-bahu,true,7.2,ctr,P3->7d
 beauty skills,siblings,true,7.5,ctr,P3->7d
-beauty skills,(all),false,7.5,ctr,P3->7d
+beauty skills,(all),false,7.5,cac,P3->7d
 guthealth,pati-vs-patni,true,8.1,cac,P3->7d
 skin female,teacher-student,true,8.3,ctr,P3->7d
 weightloss female,expert-doctor-led,true,9,ctr,P3->7d
