@@ -22,7 +22,7 @@ weightloss male,expert-doctor-led,true,0 (dry),both,P0-dry
 weightloss female,saheli-friends-taunt,true,0 (dry),both,P0-dry
 hair,saas-vs-bahu,true,0 (dry),cac,P0-dry
 hair,rishta-rejection,true,0 (dry),cac,P0-dry
-skin female,relatives-taunt,true,0 (dry),cac,P0-dry
+skin female,relatives-taunt,true,0 (dry),both,P0-dry
 guthealth,partner-rejection,true,0 (dry),cac,P0-dry
 smallbizideas,(all),false,0 (dry),both,P0-dry
 skin female,siblings,true,0 (dry),ctr,P0-dry
@@ -91,7 +91,7 @@ makeup hairstyle,(all),false,11.4,ctr,P3->7d
 home parlour,(all),false,12.7,ctr,P3->7d
 horxother + ut,(all),false,12.8,both,P3->7d
 sm+biz+diy,(all),false,12.9,both,P3->7d
-top - 153 - facebook(aaa),(all),false,13.1,both,P3->7d
+top - 153 - facebook(aaa),(all),false,13.1,cac,P3->7d
 top - 2 - pti,(all),false,14.6,both,P3->7d
 skin female,pati-vs-patni,true,14.6,ctr,P3->7d
 hair,parent-child,true,20.8,ctr,P3->7d
