@@ -22,7 +22,7 @@ weightloss male,expert-doctor-led,true,0 (dry),both,P0-dry
 weightloss female,saheli-friends-taunt,true,0 (dry),both,P0-dry
 hair,saas-vs-bahu,true,0 (dry),cac,P0-dry
 hair,rishta-rejection,true,0 (dry),cac,P0-dry
-skin female,relatives-taunt,true,0 (dry),cac,P0-dry
+skin female,relatives-taunt,true,0 (dry),both,P0-dry
 guthealth,partner-rejection,true,0 (dry),cac,P0-dry
 smallbizideas,(all),false,0 (dry),both,P0-dry
 skin female,siblings,true,0 (dry),ctr,P0-dry
@@ -61,7 +61,7 @@ bau - business (aa),(all),false,2.2,both,P1-<=3d
 top - 12 - finance,(all),false,2.5,ctr,P1-<=3d
 weightloss male,saheli-friends-taunt,true,3,ctr,P1-<=3d
 skin beauty routine,saas-vs-bahu,true,3.1,ctr,P2-<=7d
-top - 14 - utilise time,(all),false,3.3,ctr,P2-<=7d
+top - 14 - utilise time,(all),false,3.3,both,P2-<=7d
 seekhotelugu,(all),false,3.3,cac,P2-<=7d
 skin female,expert-doctor-led,true,3.7,ctr,P2-<=7d
 weightloss female,pati-vs-patni,true,3.8,cac,P2-<=7d
