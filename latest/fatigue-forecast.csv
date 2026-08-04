@@ -22,7 +22,7 @@ weightloss male,expert-doctor-led,true,0 (dry),both,P0-dry
 weightloss female,saheli-friends-taunt,true,0 (dry),both,P0-dry
 hair,saas-vs-bahu,true,0 (dry),cac,P0-dry
 hair,rishta-rejection,true,0 (dry),cac,P0-dry
-skin female,relatives-taunt,true,0 (dry),cac,P0-dry
+skin female,relatives-taunt,true,0 (dry),both,P0-dry
 guthealth,partner-rejection,true,0 (dry),cac,P0-dry
 smallbizideas,(all),false,0 (dry),both,P0-dry
 skin female,siblings,true,0 (dry),ctr,P0-dry
@@ -40,6 +40,7 @@ business,(all),false,0 (dry),cac,P0-dry
 stock market,(all),false,0 (dry),ctr,P0-dry
 weightloss female,siblings,true,0 (dry),cac,P0-dry
 home parlour,maa-beti,true,0 (dry),cac,P0-dry
+top - 35 - instagram(aa),saheli-friends-taunt,true,0 (dry),cac,P0-dry
 beauty skills,maa-beti,true,0 (dry),cac,P0-dry
 home parlour,parent-child,true,0 (dry),cac,P0-dry
 weightloss male,padosi-neighbour-taunt,true,0 (dry),cac,P0-dry
@@ -60,20 +61,19 @@ bau - business,(all),false,1.6,ctr,P1-<=3d
 bau - business (aa),(all),false,2.2,both,P1-<=3d
 top - 12 - finance,(all),false,2.5,both,P1-<=3d
 weightloss male,saheli-friends-taunt,true,3,both,P1-<=3d
-skin beauty routine,saas-vs-bahu,true,3.1,ctr,P2-<=7d
 top - 14 - utilise time,(all),false,3.3,both,P2-<=7d
 seekhotelugu,(all),false,3.3,cac,P2-<=7d
 skin female,expert-doctor-led,true,3.7,ctr,P2-<=7d
 weightloss female,pati-vs-patni,true,3.8,cac,P2-<=7d
 weightloss female,rishta-rejection,true,4.4,cac,P2-<=7d
 horxother,(all),false,4.5,cac,P2-<=7d
-womenbeauty,(all),true,4.9,ctr,P2-<=7d
+womenbeauty,maa-beti,true,4.9,ctr,P2-<=7d
 home parlour,pati-vs-patni,true,5.4,ctr,P2-<=7d
 skin female,rishta-rejection,true,5.8,ctr,P2-<=7d
+skin beauty routine,saas-vs-bahu,true,5.8,ctr,P2-<=7d
 retargeting installer,(all),false,6,both,P2-<=7d
-skin beauty routine,(all),false,6.1,ctr,P2-<=7d
 seekhokannada,(all),false,6.3,cac,P2-<=7d
-instagram,(all),false,6.6,ctr,P2-<=7d
+instagram,colleague-office,true,6.6,ctr,P2-<=7d
 top - 342 - horxother,(all),false,6.9,both,P2-<=7d
 weightloss female,nanad-vs-bahu,true,7.2,ctr,P3->7d
 beauty skills,siblings,true,7.5,ctr,P3->7d
@@ -83,15 +83,17 @@ skin female,teacher-student,true,8.3,ctr,P3->7d
 weightloss female,expert-doctor-led,true,9,ctr,P3->7d
 guthealth,parent-child,true,9.4,ctr,P3->7d
 hair,teacher-student,true,9.6,ctr,P3->7d
+instagram,(all),false,9.7,ctr,P3->7d
 hair,expert-doctor-led,true,10.1,ctr,P3->7d
 skin female,maa-beti,true,10.3,ctr,P3->7d
 weightloss female,saas-vs-bahu,true,11,ctr,P3->7d
 makeup hairstyle,pati-vs-patni,true,11.4,ctr,P3->7d
 makeup hairstyle,(all),false,11.4,ctr,P3->7d
+skin beauty routine,(all),false,11.9,cac,P3->7d
 home parlour,(all),false,12.7,ctr,P3->7d
 horxother + ut,(all),false,12.8,both,P3->7d
 sm+biz+diy,(all),false,12.9,both,P3->7d
-top - 153 - facebook(aaa),(all),false,13.1,cac,P3->7d
+top - 153 - facebook(aaa),(all),false,13.1,both,P3->7d
 top - 2 - pti,(all),false,14.6,both,P3->7d
 skin female,pati-vs-patni,true,14.6,ctr,P3->7d
 hair,parent-child,true,20.8,ctr,P3->7d
